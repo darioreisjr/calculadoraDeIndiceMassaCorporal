@@ -1,6 +1,12 @@
 @media only screen 
    and (min-width : 200px) {
 
+    .container {
+        background-image:url('https://img.freepik.com/fotos-premium/calculadora-em-fundo-azul_23-2148182032.jpg');
+        background-repeat: repeat;
+    }
+
+
     .containerTitulo {
         width: 100vw;
     }
@@ -27,7 +33,6 @@
    and (min-width : 768px) {
    
     
-
     .titulo {
         font-size: 2em;
     }
