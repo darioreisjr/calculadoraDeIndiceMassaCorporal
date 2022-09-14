@@ -1,0 +1,52 @@
+@media only screen 
+   and (min-width : 200px) {
+
+    .containerTitulo {
+        width: 100vw;
+    }
+
+    .titulo {
+        font-size: 1.5em;
+    }
+
+    .formularioContainer {
+        width: 100vw;
+    }
+
+    .labelContainer {
+        font-weight: 400;
+        font-size: 1rem;
+    }
+
+    #resultado {
+        width: 100vw;
+    }
+}
+
+@media only screen 
+   and (min-width : 768px) {
+   
+    
+
+    .titulo {
+        font-size: 2em;
+    }
+
+    .formularioContainer {
+        width: 70vw;
+    }
+
+
+    #resultado {
+        width: 70vw;
+        margin-bottom: 25px;
+    }
+
+}
+
+@media only screen 
+   and (min-width : 1200px) {
+    .titulo {
+        font-size: 2.5em;
+    }
+}
